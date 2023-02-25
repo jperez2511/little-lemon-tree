@@ -12,7 +12,7 @@ const NAVLINKS = [
   },
   {
     label: 'Bookings',
-    href: '/about',
+    href: '/reserve',
   },
 ];
 const Navbar = () => {
